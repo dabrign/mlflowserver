@@ -11,4 +11,9 @@ Official documentation for MLflow can be found at https://mlflow.org/docs/latest
 
 # Features
 * Ready to use postgresql
-* Ready to use s3-like storage
+* Ready to use s3-like storage (minio)
+
+# Examples
+
+I did found some issues to log archifacts on remote server.
+I found a workaround to solve that issue, see examples folder.
